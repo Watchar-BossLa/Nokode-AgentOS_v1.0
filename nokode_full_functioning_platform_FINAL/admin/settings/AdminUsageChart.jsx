@@ -1,0 +1,1 @@
+// Daily/weekly usage graph panel powered by Chart.js
