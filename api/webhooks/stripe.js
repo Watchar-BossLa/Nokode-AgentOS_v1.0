@@ -1,1 +1,0 @@
-// Stripe webhook to upgrade user plan and store in Supabase

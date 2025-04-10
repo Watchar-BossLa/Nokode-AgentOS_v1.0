@@ -1,1 +1,0 @@
-# Logs webhook requests and allows retries
